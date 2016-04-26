@@ -767,6 +767,11 @@ blockquote p {
     background: #f2f2f2;
 }
 
+#ingredients {
+    padding-bottom: 40px;
+    background: #f2f2f2;
+}
+
 .recent-work-wrap {
   position: relative;
 }
