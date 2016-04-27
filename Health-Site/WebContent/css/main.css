@@ -772,8 +772,10 @@ blockquote p {
     background: #f2f2f2;
 }
 #ingredients td, #ingredients th {
-    text-align:center; 
     vertical-align:middle;
+}
+#ingredients thead th {
+    text-align:center; 
 }
 #ingredients th {
 	background-color: #006699;
@@ -796,8 +798,10 @@ blockquote p {
     background: #f2f2f2;
 }
 #manufacturers td, #manufacturers th {
-    text-align:center; 
     vertical-align:middle;
+}
+#manufacturers thead th {
+    text-align:center; 
 }
 #manufacturers th {
 	background-color: #006699;
